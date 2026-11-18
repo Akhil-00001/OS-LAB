@@ -1,2 +1,3 @@
-# OS_LAB_WORK 
-This repo have our os lab programs.
+# 5th sem operating system lab practicals
+
+## This repo consists of our lab practicals from every week.
